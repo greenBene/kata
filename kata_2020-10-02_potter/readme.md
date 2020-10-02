@@ -26,3 +26,5 @@ answer :
 = 25.6 * 2
 = 51.20
 ```
+
+(Source: https://codingdojo.org/kata/Potter/)
